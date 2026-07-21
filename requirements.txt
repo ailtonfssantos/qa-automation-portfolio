@@ -1,0 +1,23 @@
+# Core de Testes
+pytest==8.3.2
+pytest-xdist==3.6.1
+pytest-html==4.1.1
+allure-pytest==2.13.5
+
+# Automação Web
+selenium==4.24.0
+webdriver-manager==4.0.2
+
+# API e Dados
+requests==2.32.3
+Faker==28.4.1
+pydantic==2.8.2 # Para validação de schemas JSON
+
+# Qualidade de Código
+black==24.8.0
+flake8==7.1.1
+mypy==1.11.2
+pre-commit==3.8.0
+
+# Utilitários
+python-dotenv==1.0.1
